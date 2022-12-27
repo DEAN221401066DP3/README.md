@@ -35,12 +35,10 @@ Mulai
 				- Masukkan Jumlah SKS Mata Kuliah Ke-: (Mengikuti jumlah mata kuliah yang diambil) dan (Input Jumlah SKS).
 				- Masukkan Nilai Mata Kuliah ke-: (Mengikuti jumlah mata kuliah yang diambil) dan (Input Nilai Mata Kuliah).
 			Akhir
-			Mulai
 				Output: - Menampilkan Data Mahasiswa.
-			Akhir
 		Akhir
 	Akhir
 Akhir.
 
 # Video
-[Video Program](https://www.youtube.com "Program Analisis ...")
+[Video Program](https://youtu.be/Wlf4JbiiH8A"Program Analisis dan Manajemen Nilai Siswa")
